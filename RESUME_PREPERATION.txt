@@ -1,0 +1,152 @@
+The best way to prepare resume
+------------------------------------
+Go to Naukri, Monster, Indeed etc... Job Portals, verify the Job Responsibilities Companies are 
+looking for. Try to keep those points in the resume.
+
+Use your creativity to add some fishy / crazy / new points in the resume which attract the interviewer [those are ansered by you only]
+
+
+Note:
+
+1) Time to time requirement, responsibilities and combinations are changing.
+2) Location to location, the way of project implementation and responsibilities are different.
+3) Small enterprizes and MNCs requirements and responsibilities are different.
+
+-----------------------------------------------------------------------------------------------------------
+
+
+You want to make your resume strong, try to place the below topics in the resume: 
+
+Role, Life Cycle, Challenges, Documents, Testing, Performance Tuning, Report Creation Components,  Versioning, Refresh, Scheduling
+
+a) PBI Desktop [RLS, Custom Visuals, Bookmarks, Slicers,Filters, Buttons, Formatting, Modeling]
+b) PBI Service Level [Workspace, Appspace, Security, Refresh, Gateway, Incremental Refresh, Upload report,Content Pack, Schedule Refresh, SubScriptions, Alerts etc.]
+c) Microsoft Flow specify to schedue the PBI Datasets
+d) Power Apps [Providing customer frindly form to enter details which reflect in PBI Dataset]
+e) SQL Topics [Joins, Sub Queries, Set Operations, Procedures, Views, Analytical Functions ]
+f) Azure Awareness [SQL Database, Data Lake etc.]
+g) MSBI-Cubes knowledge
+h) Versioning tool knowledge [TFS, PVCS, Git etc...]
+i) Testing compulsary
+
+
+
+
+=========================================================================================
+1st Section
+
+Professional Summary:
+
+a)Ensure Total experience [7 years] mentioned, and relevant MSBI [4 years] also specified
+b) Roles played {Team member, Team Lead, Consutltant, Analyst etc...] in 7 years
+c) Documents receiving and deliverying and the type of documents  {in 7 years}
+d) Major challenges, complexties faced in the tenure
+e) Major components worked on / Frequently used components
+f)  Debugging methods, Performance Tuning  and Trouble shooting points [at least one or two]
+g) Unit testing / Test procedure of the applications in the project
+h) SQL knowledge points
+i) DWH and BI, Data Model Knowledge points
+j) Versioning, Scheduling, Defect tracking, Custom,  and other tools you used
+k) Latest Versions, Topics, Concepts you have gone through or trained on
+
+2nd Section
+
+Certifications
+
+3rd Section
+
+Achievements
+
+4th Section
+
+Other technical skills
+
+5th Section
+
+Work Experience
+
+One line for each company
+
+6th  Section
+
+Education Details
+
+One line for each Institute [if they are reputated]
+Mention percenatges (if good)
+
+7th Section 
+Projects Handled [starting from current to past]
+
+8th Section
+
+Each Project and the below details
+
+Project Name		: MEDW (Merchandise Enterprise Data Warehouse)
+Application Name   		: MaxMin Datamart
+Client			: A.M.S.I. Miniature Landscaping, CA 
+Project Role		: Team Member, Lead (ETL and Teradata) 
+Software tools         		: SSIS, Informatica PowerCenter, Oracle, Sqlserver
+Team Size			: 9
+Duration                  		: Dec2016 to Till date
+
+Project Description: [ ***you should cover customer description, need of BI system, BI Model, Tools etc...]
+
+A*M*S*I manufactures products to create outdoor landscape scenes for dollhouses, rail-road displays, dioramas, world iconic and model crafting. 
+Everything from ground cover to tree armatures in various raw materials. Business driven through three channels (Online, Retailer and Direct outlet).Company strategic analysis expecting a better deci-sion making system across all these channels for effective growth and made a MEDW. 
+SSIS and Informatica used here to populate data into dimension and fact tables in Max-MinDataMart which is in snow flake schema.                     
+
+Responsibilities: [***Docs, Components, Tasks, Testing, Performance Tuning, Debug, SQL, Versioning, Scheduling etc...]
+
+
+•	As an Associate I involved in getting docs (which are kept in Sharepoint Server), understanding, analysing documents, creating and manipulating various packages and queries according to those.
+•	In case of changes we follow CR document procedure of the client 
+•	I prepared several types of documents (Technical Design, Unit test) required for the project.
+•	Created dimension loading and Fact Loading packages and mappings separately.
+•	Used many Lookup Transforms and written many logics for Fact Loading.
+•	Data loading into Cube Objects such as Fact, Dimension and KPIs.
+•	 Different types of Data Loading (Direct, Incremental, SCD Type2 etc...) 
+ implemented using packages  and used configuration files.
+•	Worked with various Control Flow items(For Loop, For Each loop,
+      Sequence ,Execute Sql  task and File System task) and Data Flow items (Flat File and Oledb source and Dest, Derived column, Sort, Lookup, Conditional Split, Mul-ticast etc...).
+•	Used various debugging methods to identify errors and issues.
+•	Handled errors in packages and reported errors in error tables.
+•	Identified long running data flows and eliminated bottlenecks. 
+•	Written many Unit (ETL) test cases and Implemented Unit test (ETL) results.
+•	Writing various queries (duplications, tops, aggregate operations etc...) as part of reconciliation and business logics Validation.
+•	Maintained versioning in TFS with appropriate comments.
+•	Answering ADHOC requests from the Business users.
+•	Deploying packages with appropriate configurations.
+•	Load monitoring the Support Process by failure reporting and failure handling.  
+•	Migrated data from one environment to another (from Devt to Sit etc…). 
+
+
+
+
+9th Section
+
+Declaration:
+
+
+
+Name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
